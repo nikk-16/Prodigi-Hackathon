@@ -32,19 +32,19 @@ iii. Digital marketing campaigns and loyalty programs
 <th>Member</th>
 <th>Reg. No.</th> 
 </tr>
-<tr><th>Deepika S Srivastava</th>
-<th>20BAI10319</th></tr>
+<tr><td>Deepika S Srivastava</td>
+<td>20BAI10319</td></tr>
 <tr> 
-<th>Nikhil Chaurasiya</th>
-<th>20BAI10106</th>
+<td>Nikhil Chaurasiya</td>
+<td>20BAI10106</td>
 </tr>
 <tr> 
-<th>Varun Shukla</th>
-<th>20BAI10292</th>
+<td>Varun Shukla</td>
+<td>20BAI10292</td>
 </tr>
 <tr> 
-<th>Kushal Dube</th>
-<th>20BCE10488</th>
+<td>Kushal Dube</td>
+<td>20BCE10488</td>
 </tr>
 </table>
 
