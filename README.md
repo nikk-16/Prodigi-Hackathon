@@ -21,7 +21,7 @@ iii. Digital marketing campaigns and loyalty programs
 </ol>
 
 ## Solution:
-<a href="https://github.com/nikk-16/Prodigi-Hackathon/blob/main/Idea%20presentation.pptx"><img src="https://github.com/nikk-16/Prodigi-Hackathon/blob/main/ppt%20symbol.png" height="70px" width ="70px"><br>. [Link] .</a>
+<a href="https://vitbhopalacin-my.sharepoint.com/:p:/g/personal/nikhil_chaurasiya2020_vitbhopal_ac_in/ES66oYE0y49Hm8hR5D7Yyb8BSLY9dUjRjyo4b7iati74sQ?e=d018v2"><img src="https://github.com/nikk-16/Prodigi-Hackathon/blob/main/ppt%20symbol.png" height="70px" width ="70px"><br>. [Link] .</a>
 
 <hr> 
 <b> Team Working on it:</b>
