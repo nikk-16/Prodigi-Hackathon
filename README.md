@@ -35,15 +35,15 @@ Prototype, made with HTML/CSS, Bootstrap, TailwindCSS, JavaScript.
 <hr>
 <hr>
 <h2>Why us?</h2>
-<p> <ul> We are IT enthusiasts who are always learning about new tech stacks, excellent learners, and most importantly, creative thinkers and hard workers. In the event that our proposal is chosen for this round, we will work to scale it up to create a comprehensive response to the issue description.
+<p> <li> We are IT enthusiasts who are always learning about new tech stacks, excellent learners, and most importantly, creative thinkers and hard workers. In the event that our proposal is chosen for this round, we will work to scale it up to create a comprehensive response to the issue description.
 
-</ul>
-<ul>The team aspires in putting its knowledge into finding a feasible solution to the problem statements provided to us. Moreover, we participated in the SIH hackathon. Our topic was Satellite Image Dehazing. We worked towards the idea to propose a solution but unfortunately lacked some concepts. Our mentor told us about the mistakes we did and we tried to mend them. We made a note of those mistakes and this time we have tried to overcome them and provide all the necessary information required in the ideation stage. We hope we will get a chance to bring our idea to work.
+</li>
+<li>The team aspires in putting its knowledge into finding a feasible solution to the problem statements provided to us. Moreover, we participated in the SIH hackathon. Our topic was Satellite Image Dehazing. We worked towards the idea to propose a solution but unfortunately lacked some concepts. Our mentor told us about the mistakes we did and we tried to mend them. We made a note of those mistakes and this time we have tried to overcome them and provide all the necessary information required in the ideation stage. We hope we will get a chance to bring our idea to work.
 
-</ul>
-<ul> We have worked very hard for this hackathon and provided solution to one of the problem and got selected in top 20. We were provided another chance to showcase our idea for which we worked and got to complete the proposal and powerpoint answering all the questions those were asked to complete.
+</li>
+<li> Failures teach you more than success. With learning from the past mistakes we made, we have worked very hard for this hackathon and provided solution to one of the problem and got selected in top 20. We were provided another chance to showcase our idea for which we worked and got to complete the proposal and powerpoint answering all the questions those were asked to complete, which we are using full opportunity to come into top 5. This time it is more presentable answering all the question those were missing last time.
 
-This time it is more presentable answering all the question those were missing last time.</p>
+</li>
 
 
 <hr>
