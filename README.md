@@ -29,6 +29,10 @@ Prototype, made with HTML/CSS, Bootstrap, TailwindCSS, JavaScript.
 
 <a href="https://vitbhopalacin-my.sharepoint.com/:p:/g/personal/nikhil_chaurasiya2020_vitbhopal_ac_in/ES66oYE0y49Hm8hR5D7Yyb8BSLY9dUjRjyo4b7iati74sQ?e=d018v2"><img src="https://github.com/nikk-16/Prodigi-Hackathon/blob/main/ppt%20symbol.png" height="70px" width ="70px"><br>. [Link] .</a>
 
+<br>
+<h3> ARCHITECTURE </h3>
+<img src="https://github.com/nikk-16/Prodigi-Hackathon/blob/main/Architecture.jpeg" width="60%" height="85%">
+<hr>
 <hr>
 <h2>Why us?</h2>
 <p> <ul> We are IT enthusiasts who are always learning about new tech stacks, excellent learners, and most importantly, creative thinkers and hard workers. In the event that our proposal is chosen for this round, we will work to scale it up to create a comprehensive response to the issue description.
